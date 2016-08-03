@@ -1,0 +1,118 @@
+/* Inserte su codigo aqui */
+.fondo {
+	background-color: #FCCE09;
+	height: 600px;
+	width: 100%;
+}
+.sumate {
+	font-size: 15px;
+	text-align: center;
+	background-color: #FCBA43;
+	padding: 15px 20px;
+	text-decoration: none;
+	color: #FDEEC8;
+	font-family: Open Sans;
+}
+
+.menu {	
+	text-decoration: none;
+	color: #FDEEC8;
+	margin-left: 30px;
+	font-family: Open Sans;
+}
+
+.botton {
+	padding-top: 60px;
+}
+
+.enls {
+	padding-top: 20px;
+}
+
+.titulo h2,h5{
+	color: #FDEEC8;
+	text-align: center;
+	font-family: Open Sans;
+	margin-top: 150px;
+}
+
+.sub {
+	margin-top: -150px;
+}
+
+.color-fondo {
+	background-color: #EAEAE9;
+}
+
+.boxs {
+	background-color: #FFFFFF;
+	padding: 20px 20px 10px 20px;
+}
+
+.img {
+	margin-left: 50px;
+}
+
+.ejemplo {
+	font-size: 15px;
+	margin-left: 15px;
+	color: #C2C3C6;
+	font-family: Open Sans;
+}
+
+.h3 {
+	color: #878786;
+	font-family: Open Sans;
+}
+
+.more {
+	font-size: 15px;
+	text-align: center;
+	background-color: #FCBA43;
+	padding: 5px 15px;
+	text-decoration: none;
+	color: #FDEEC8;
+	font-family: Open Sans;
+	margin-left: 150px;
+}
+.box {
+	padding-top: 50px;
+}
+
+.fondo-footer {
+	background-color: #262624;
+	margin-top: -20px;
+	height: 60px;
+}
+
+.copyr {
+		color: #D7E3D6;
+		padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
