@@ -1,9 +1,19 @@
 /* Inserte su codigo aqui */
+
+/*header*/
+
+.recipiente-general {
+	width: 1300px;
+	max-width: 100%;
+	margin: auto;
+}
+
 .fondo {
 	background-color: #FCCE09;
 	height: 600px;
 	width: 100%;
 }
+
 .sumate {
 	font-size: 15px;
 	text-align: center;
@@ -39,6 +49,8 @@
 .sub {
 	margin-top: -150px;
 }
+
+/*section*/
 
 .color-fondo {
 	background-color: #EAEAE9;
@@ -78,6 +90,8 @@
 .box {
 	padding-top: 50px;
 }
+
+/*footer*/
 
 .fondo-footer {
 	background-color: #262624;
